@@ -1,3 +1,6 @@
 *.php
 *.cpp
 *.py
+
+!Second.cpp
+
